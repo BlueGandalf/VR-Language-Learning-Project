@@ -1,6 +1,9 @@
 # VR-Language-Learning-Project
 A VR app that can help users learn languages. This was a key part of my final year project
 
+## Introduction
+My final year project's title was "Learning a New Language Using a VR Environment", and was an individual project worth 40 credits, or 1/3 of my final year's marks. The report and demo provided are reviewed and assessed. The other files store all necessary scripts and files needed to import the file into Unity and customise and use the app. 
+
 ## To view scripts
 
 Scripts that have been written by me can be found in the /Scripts/ folder. These are also in the Unity Project folder (under /Assets/Scripts/), but have been copied into this folder for convenience.
